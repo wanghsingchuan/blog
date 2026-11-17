@@ -1,7 +1,7 @@
 ---
 title: "Hugo 快速架站"
-date: 2026-11-18T01:00:00+08:00
-draft: true
+date: 2026-10-09T17:00:00+08:00
+draft: false
 tags: ["hugo", "github-pages", "github-actions", "git", "powershell"]
 categories: ["工具與環境"]
 summary: "照著 Hugo 官方文件，在 Windows 上安裝 Hugo、部署到 GitHub Pages。"
