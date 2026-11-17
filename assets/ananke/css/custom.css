@@ -1,0 +1,19 @@
+/* 字型（要連 Ananke 的 class 一起指定才會生效） */
+body, .sans-serif, .serif, .athelas, .avenir {
+  font-family: "Noto Sans TC", "Microsoft JhengHei", "PingFang TC", "Arial", sans-serif;
+}
+
+/* 內文圖片：細邊框、圓角 */
+article img {
+  border: 1px solid #e5e5e5;
+  border-radius: 6px;
+}
+
+/* 行內程式碼：淺灰底色 */
+p code, li code, td code {
+  background: #f3f3f3;
+  padding: 0.1em 0.35em;
+  border-radius: 4px;
+}
+
+/* 表格：把上一則的表格 CSS 接在這裡 */
