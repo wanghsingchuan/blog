@@ -1,7 +1,7 @@
 ---
 title: 如何在 Ubntu 26.04 上安裝 Magento 2.4.9
 date: 2026-05-18T17:00:00+08:00
-draft: true
+draft: false
 tags:
   - magento
   - ubuntu
